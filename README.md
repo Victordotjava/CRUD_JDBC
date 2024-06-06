@@ -1,2 +1,3 @@
 # CRUD_JDBC
-Ao criar uma conexão de banco de dados o melhor começar do inicio, então aqui tenho um CRUD simples usando JDBC e MySQL onde faço o uso drivers diretamente dentro do projeto!
+Ao estudar formas de conexões de bancos de dados é o melhor jeito é começar dos "primórdios"...
+Então nesse repositório tenho uma conexão com banco de dados relacional MySQL e usando a classe JDBC onde foi a primeira forma de conectar uma aplicação com o banco através de Drivers.
